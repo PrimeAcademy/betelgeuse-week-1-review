@@ -1,0 +1,18 @@
+# This module gauges your comfort with often-used terminal commands.
+# Type your responses on a new line.
+
+# 1 - What is the command for changing directories?
+
+# 2 - What is a quick way to get to your user's directory?
+
+# 3 - What is a quick way to get to the root directory?
+
+# 4 - How do you quickly create an empty file?
+
+# 5 - What is the command for creating a new directory?
+
+# 6 - What is the command for listing the files in the current directory?
+
+# 7 - What is the command for listing all files, including hidden files in the current directory?
+
+# 8 - What is the command for navigating to the parent directory of the current directory?

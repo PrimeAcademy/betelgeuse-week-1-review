@@ -1,0 +1,18 @@
+# This exercise tests your comfort with common Git commands.
+# Type your answers on a new line.
+
+# Type the command for creating a new local git repository in the current directory
+
+# Type the command for viewing a log of all commits in the current branch
+
+# Type the command for creating a new branch in the current repository
+
+# Type the command for checking out the branch newstuff
+
+# Type the command for adding all files to the staging area
+
+# Type the command for committing all staged files with a message that says "I have made some updates"
+
+# Type the command for pushing all commits on the current branch to a the master branch in a remote repo nicknamed lulu
+
+# Type the command for getting updates from the master branch on lulu

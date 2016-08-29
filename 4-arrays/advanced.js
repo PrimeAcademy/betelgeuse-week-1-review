@@ -10,6 +10,6 @@ var arr = [3, 4, 6, 0];
 // each array value from smallest
 // to largest.
 
-// 4 - Use the map method to 
+// 4 - Use the map method to
 // halve the value of each
 // value in the array.

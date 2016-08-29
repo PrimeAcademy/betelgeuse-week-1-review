@@ -5,7 +5,7 @@
 
 # Type the command for viewing a log of all commits in the current branch
 
-# Type the command for creating a new branch in the current repository
+# Type the command for creating a new branch called newstuff in the current repository
 
 # Type the command for checking out the branch newstuff
 
@@ -13,6 +13,6 @@
 
 # Type the command for committing all staged files with a message that says "I have made some updates"
 
-# Type the command for pushing all commits on the current branch to a the master branch in a remote repo nicknamed lulu
+# Type the command for pushing all commits on the current branch to a the master branch in a remote repo nicknamed origin
 
-# Type the command for getting updates from the master branch on lulu
+# Type the command for getting updates from the master branch on origin

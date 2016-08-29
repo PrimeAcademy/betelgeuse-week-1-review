@@ -13,10 +13,9 @@
 // console logs that value.
 
 // 4 - Write a function declaration
-// that takes another function as an
-// argument. This function merely
-// executes the given function.
+// that takes a number and divides it
+// by two.
 
 // 5 - Call the function from 4 and
-// pass the function from 3 in as an
-// argument.
+// pass it into the function from 2 called with
+// the arguments 10, 20. Console log the result.
